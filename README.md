@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yinziyan1206
 - 👀 I’m interested in Python, Algorithm
-- 🌱 I’m currently learning Python3.10
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Python Web Development, Crawler and Data Analyzing
 - 📫 How to reach me mailto:408856732@qq.com
 
